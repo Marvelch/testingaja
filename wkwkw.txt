@@ -1,1 +1,9 @@
-Sekarang sudah mengerti fetch
+<html>
+<head>
+
+</head>
+<body>
+<h1>Hello Marvel</h1>
+<p>NIK : 091239190823123</P>
+</body>
+</html>
